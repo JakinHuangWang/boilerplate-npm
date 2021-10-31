@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jakin Wang",
 	"description": "An awesome backend app that does cool stuff!",
+	"keywords": ["freecodecamp", "APIs", "Backend", "Node"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
